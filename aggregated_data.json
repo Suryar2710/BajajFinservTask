@@ -2,6 +2,7 @@
     "Age": 33.42857142857143,
     "gender": {
         "M": 11,
+        "null": 10,
         "F": 10
     },
     "validPhoneNumbers": 18,
