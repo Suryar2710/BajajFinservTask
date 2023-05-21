@@ -1,0 +1,11 @@
+{
+    "Age": 33.42857142857143,
+    "gender": {
+        "M": 11,
+        "F": 10
+    },
+    "validPhoneNumbers": 18,
+    "appointments": 31,
+    "medicines": 66,
+    "activeMedicines": 46
+}
